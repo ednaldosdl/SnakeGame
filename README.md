@@ -9,10 +9,11 @@ Recriando o jogo da cobrinha com JavaScript
 -  :checkered_flag:  release
 ##  Tarefas
 
-Apresentação das tarefas desse projetos.
+Apresentação das tarefas desse projeto.
 
 
 
-- Criação de background
+- Criação de background.
+- Criação da Cobrinha.
 
 
