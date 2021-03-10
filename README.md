@@ -15,5 +15,6 @@ Apresentação das tarefas desse projeto.
 
 - Criação de background.
 - Criação da Cobrinha.
+- Definição dos movimentos da cobrinha.
 
 
