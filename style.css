@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2? família=DotGothic16&display=swap');
+
+#snake {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #61045F;
+    border-radius: 4px;
+    color:  #cc2a8e;
+}
+
+.container {
+    padding: 0 12rem;
+    margin: 0 12rem;
+}
+
+h1 {
+    padding: 0 5.5rem;
+    margin: 0 0 0;
+    color: #61045F;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 3rem;
+}
+
+
